@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Мопс Мессенджер
+Comment=Клиент для XMPP/Openfire с шифрованием OMEMO
+Exec=mops
+Icon=mops
+Terminal=false
+Type=Application
+Categories=Network;InstantMessaging;
+StartupNotify=true
