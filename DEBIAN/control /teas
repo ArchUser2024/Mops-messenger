@@ -1,1 +1,9 @@
-
+Package: mops-messenger
+Version: 0.0.3
+Section: net
+Priority: optional
+Architecture: all
+Depends: python3 (>= 3.9), python3-pip, python3-pyqt6, python3-venv
+Maintainer: Your Name <your.email@example.com>
+Description: Mops Messenger – XMPP client with OMEMO encryption
+Desktop XMPP client for Openfire with OMEMO encryption and SSL support.
