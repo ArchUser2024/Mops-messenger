@@ -1,0 +1,20 @@
+mops-deb/
+├── DEBIAN/
+│   ├── control
+│   └── postinst
+├── usr/
+│   ├── bin/
+│   │   └── mops
+│   ├── share/
+│   │   ├── applications/
+│   │   │   └── mops.desktop
+│   │   ├── mops/
+│   │   │   ├── main.py
+│   │   │   ├── gui.py
+│   │   │   ├── xmpp_client.py
+│   │   │   ├── config.py
+│   │   │   └── requirements.txt
+│   │   ├── icons/hicolor/256x256/apps/
+│   │   │   └── mops.png
+│   │   └── doc/mops/
+│   │       └── README
